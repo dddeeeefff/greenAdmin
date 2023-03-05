@@ -1,0 +1,34 @@
+.page-contents { margin-left: 300px; width: 100%; max-width: 1607px; }
+.content-wrapper { width: 80%; margin: 50px auto 50px 200px; }
+.content-wrapper > h3 { font-size: 30px; }
+.info { width: 100%; margin: 50px auto 0; }
+.info .title { display: flex; justify-content: space-between; font-size: 24px; }
+.detail { width: 100%; margin: 50px 0; display: flex; flex-wrap: wrap; justify-content: space-between; }
+.imgs { width: 30%; }
+.img-row { width: 100%; display: flex; flex-wrap: wrap; justify-content: space-between; }
+.img-row > figure { width: 45%; }
+.img-row:nth-child(2) { margin-top: 50px; }
+.img-row > figure > img { width: 100%; }
+.texts { width: 65%; font-size: 25px; display: flex; justify-content: space-between; }
+.text-column { width: 45%; display: flex; justify-content: space-between; }
+.text-column p { padding: 5px; }
+.text-column:nth-child(2) .value > p:nth-child(3) { border: 1px solid #000; width: 100%; }
+.key { width: 30%; font-weight: bold; }
+.value { width: 60%; }
+.key > p, .value > p { margin-top: 10px; }
+.more { position: absolute; top: 700px; width: 100%; margin-bottom: -200px 0 0 455px; font-size: 25px; }
+.desc { width: 45%; display: flex; }
+.desc > p:nth-child(1) { font-weight: bold; width: 300px; }
+.desc > p:nth-child(2) { margin-left: 20px; }
+.account { margin-top: 30px; width: 20%; display: flex; border: 1px solid #000; padding: 5px; }
+.account > p:nth-child(1) { margin-right: 30px; }
+.frm-wrapper { position: absolute; width: 20%; top:470px; margin: 150px 0 0 1000px; font-size: 25px; }
+.frm-wrapper > form { width: 90%; }
+.frm-row { width: 100%; display: flex; }
+.frm-wrapper .frm-row > p { font-size: 25px; }
+.frm-wrapper .frm-row > p:nth-child(2) { margin-left: 20px; }
+.frm-wrapper > form .frm-row:nth-child(2) { margin-top: 10px; }
+.frm-wrapper > form > .frm-row > select { margin-left: 20px; font-size: 25px; }
+.btns { position: absolute; top: 700px; width: 30%; margin: 30px 0 0 1030px; }
+.btns > input { padding: 10px 15px; font-size: 25px; }
+.btns > input:nth-child(2) { margin-left: 20px; }

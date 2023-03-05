@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/ctrl/BuyListCtrl.java=UTF-8
+encoding//src/ctrl/LoginCtrl.java=UTF-8
+encoding//src/ctrl/LoginFormCtrl.java=UTF-8
+encoding//src/ctrl/NonConfirmSellListCtrl.java=MS949
+encoding//src/ctrl/ProductStockListCtrl.java=MS949
+encoding//src/ctrl/SellListCtrl.java=UTF-8
+encoding//src/ctrl/SellProcStatusCtrl.java=UTF-8
+encoding//src/ctrl/SellViewCtrl.java=UTF-8
+encoding//src/dao/IndexDao.java=UTF-8
+encoding//src/dao/ProductProcDao.java=UTF-8
+encoding//src/dao/SellProcDao.java=UTF-8

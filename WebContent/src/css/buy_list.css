@@ -1,0 +1,24 @@
+* { border-collapse: collapse; }
+.page-contents { margin-left: 300px; width: 100%; max-width: 1607px; }
+.content-wrapper { width: 80%; margin: 50px auto 50px 200px; }
+.page-contents .content-wrapper > h3 { font-size: 30px; padding: 10px 15px; }
+.page-contents .content-wrapper .frmSch { width: 100%; text-align: right; margin-top: 20px; }
+.page-contents .content-wrapper .frmSch > form > select { font-size: 18px; padding: 10px 15px; }
+.page-contents .content-wrapper .frmSch > form > input { padding: 10px 15px; font-size: 18px; margin-left: 10px; }
+.page-contents .content-wrapper .list { width: 100%; margin-top: 70px; }
+.page-contents .content-wrapper .list > table { width: 100%; text-align: center; }
+.page-contents .content-wrapper .list .biid { width: 13%; padding: 10px; border: 1px solid #000; height: 70px; }
+.page-contents .content-wrapper .list .uid { width: 15%; padding: 10px; border: 1px solid #000; height: 70px; }
+.page-contents .content-wrapper .list .brand { width: 7%; padding: 10px; border: 1px solid #000; height: 70px; }
+.page-contents .content-wrapper .list .model { width: 15%; padding: 10px; border: 1px solid #000; height: 70px; }
+.page-contents .content-wrapper .list .predict { width: 12%; padding: 10px; border: 1px solid #000; height: 70px; }
+.page-contents .content-wrapper .list .confirmed { width: 12%; padding: 10px; border: 1px solid #000; height: 70px; }
+.page-contents .content-wrapper .list .status { width: 13%; padding: 10px; border: 1px solid #000; height: 70px; }
+.page-contents .content-wrapper .list .date { width: 13%; padding: 10px; border: 1px solid #000; height: 70px; }
+.page-contents .content-wrapper .list > table .th > th { font-size: 25px; }
+.page-contents .content-wrapper .list > table .td > td { font-size: 20px; }
+.page-contents .content-wrapper .list > p { font-size: 25px; width: 50%; margin: 100px auto 0; text-align: center; }
+.pagination { max-width: 60%; margin: 50px auto 0; display: flex; justify-content: center; }
+.pagination > a { display: block; padding: 10px; font-size: 20px; margin-left: 10px;}
+.pagination > p { padding: 10px; font-size: 20px; margin-left: 10px; }
+.pagination .first { margin-left: 0px; }

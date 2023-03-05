@@ -1,0 +1,18 @@
+@import url(/greenAdmin/src/css/common.css);
+.login-wrapper { width: 500px; margin: 100px auto; }
+.login-box { border: 1px solid #c6c6c6; padding: 20px 28px; border-radius: 6px; }
+h2 { margin: 0; font-size: 30px; }
+.ctrl-wrapper > form { margin: 30px 0; }
+.ctrl-wrapper > form > p { text-align: center; }
+.btn { width: 130px; height: 50px; font-size: 16px; }
+.input-wrapper { margin-bottom: 30px; }
+.input_row { border: 1px solid #dadada; border-radius: 6px; width: 400px; padding: 14px 17px 13px; margin: 0 auto; }
+.input_row > label { display: inline-block; width: 100px; }
+.input_text { 
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: -.5px;
+    color: #222;
+    border: none;
+}

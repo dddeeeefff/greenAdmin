@@ -1,0 +1,10 @@
+.page-contents { margin: 50px 0 50px 300px; }
+.contents-wrapper { width: 1000px; margin: 0 auto; display: flex; flex-wrap: wrap; }
+.text-box { width: 40%; margin: 50px 100px 50px 0; border: 1px solid #000; }
+.text-box .title { display: flex; justify-content: space-between; }
+.text-box:nth-child(2n) { margin: 50px 0; }
+.text-box:nth-child(3), .text-box:nth-child(4) { margin-bottom: 50px; }
+.text-row { display: flex; justify-content: space-between; }
+.page-contents h3 { font-size: 40px; margin-bottom: 20px; padding: 20px; }
+.page-contents p { font-size: 30px; margin-bottom: 10px; padding: 10px 15px; }
+.text-row > p:nth-child(2) { margin-right: 10px; }

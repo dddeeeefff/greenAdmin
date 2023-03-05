@@ -1,0 +1,16 @@
+@import url(/greenAdmin/src/css/common.css);
+a { color: #000; }
+.header { height: 2000px; width: 300px; position: absolute; border-right: 1px solid #000; }
+.nav { width: 80%; margin: 0 auto; text-align: center; }
+.menu { border: 1px solid #000; border-bottom: none; }
+.menu:nth-child(4) { border: 1px solid #000; }
+.nav h3 { width: 100%; padding: 30px 20px; font-size: 30px; border-bottom: 1px solid #000; }
+.nav .sub { text-align: left; background-color: lightgrey; padding: 20px 0 30px; display: none; }
+.nav .sub p { padding: 10px 0 10px 20px; }
+.nav .sub p:nth-child(1) { padding: 10px 0 0 20px; }
+.sub-sub { padding: 0 0 10px 10px; }
+.nav .sub.active { display: block; }
+.nav .menu .sub a .active-p { font-weight: bold; text-decoration: underline; }
+.login { width: 100%; max-width: 1607px; margin-left: 300px; border-bottom: 1px solid #000; display: flex; justify-content: flex-end; padding: 20px; font-size: 20px; }
+.login > p { margin-right: 20px; padding: 10px 15px; }
+.login > input { font-size: 20px; padding: 10px 15px; }
